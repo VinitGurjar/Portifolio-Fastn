@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /portfolio
+logoURL: /Portfolio-Fastn
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/blogs
-header-item4-link: /portfolio/projects
+header-item1-link: /Portfolio-Fastn
+header-item2-link: /Portfolio-Fastn/about
+header-item3-link: /Portfolio-Fastn/blogs
+header-item4-link: /Portfolio-Fastn/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://twitter.com/bhaktkage
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -44,8 +44,8 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 ;; -----------------------------------------------------
 
 -- toast.stack: 
-title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+title: Hello, I'm machine learning  developer based in India
+link: https://github.com/VinitGurjar
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Vinit Gurjar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -99,7 +99,7 @@ link: mailto:YOUR_EMAIL_ADDRESS
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: vinitgurjar352@gmail.com  
 isNewTab: true
 
 -- end: ftd.row
@@ -117,15 +117,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/vinit-gurjar-48280921a/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/bhaktkage
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/VinitGurjar
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:

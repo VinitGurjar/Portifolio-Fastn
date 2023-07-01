@@ -1,0 +1,22 @@
+-- import: package/base-layout as layout
+-- import package/header as navbar
+
+
+-- layout.base-layout:
+
+-- navbar.header:
+logo: $assests.files.images.logo.svg
+logoURL: /Portfolio-fastn
+header-item1: Home
+header-item1-link: /Portfolio-fastn/home
+header-item1: Home
+header-item1-link: /Portfolio-fastn/home
+header-item1: Home
+header-item1-link: /Portfolio-fastn/home
+header-item1: Home
+header-item1-link: /Portfolio-fastn/home
+header-item1: Home
+header-item1-link: /Portfolio-fastn/
+cta-items1: Login
+cta-link1:/Portfolio-fastn/login
+-- end layout.base-layout
